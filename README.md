@@ -1,7 +1,9 @@
 # FOOTBALL Management APP :soccer:
 
-During week 6/11 at Codaisseur.
-This page was made with the intention of practicing dveloping full-stack applications.
+FULLSTACK APP
+Front end - 
+Back end - log in (authorization) 
+           storing data 
 
 ## Related Repositories
 Frontend can be found HERE !!!
